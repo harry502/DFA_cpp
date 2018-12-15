@@ -1,5 +1,5 @@
 # DFA_cpp
-simple c++ code for DFA algorithm.
+Simple c++ code for the DFA algorithm.
 
 # Let’s get started!
 
